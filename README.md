@@ -2,7 +2,11 @@
 
 Bug Trace is a comprehensive web-based bug tracking system built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This system helps streamline the process of identifying, reporting, and managing software bugs, enabling development teams to enhance the overall quality of their applications.
 
-**Admin Login:**
+## Live Demo
+
+Check out the live demo of Bug Trace at [https://bug-trace-bugtrackingsystem-demo-app.vercel.app/](https://bug-trace-bugtrackingsystem-demo-app.vercel.app/).
+
+## Admin Login
 Use the following credentials to log in as an admin:
 
 - Email: admin
