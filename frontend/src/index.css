@@ -1,0 +1,35 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
+
+:root {
+  --primaryColor: rgb(91, 42, 157);
+  --secondaryColor: rgb(245, 31, 155);
+  --tertiaryColor: #9854CB
+}
+
+body {
+  margin: 0;
+
+  /* font-family: 'DM Sans', sans-serif;
+  font-family: 'DM Serif Display', serif; */
+  /* font-family: 'Nunito', sans-serif; */
+  font-family: 'Roboto', 'Squada One', sans-serif;
+
+
+}
+
+/* Customize the scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+
+  /* Set the width of the scrollbar */
+}
+
+/* Customize the scrollbar thumb */
+::-webkit-scrollbar-thumb {
+  background-color: #9854CB;
+  border-radius: 5px;
+  /* Set the background color of the scrollbar thumb */
+}

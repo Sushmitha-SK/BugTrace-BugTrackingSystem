@@ -1,0 +1,154 @@
+/* .add-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.add-button {
+    margin-left: auto;
+}
+
+.modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.modal-content {
+    background-color: white;
+    padding: 20px;
+    outline: none;
+    width: 500px;
+    max-width: 90%;
+    height: 600px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 500px;
+    border-radius: 12px;
+}
+
+.modal-content form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.add-task-button {
+    align-self: center;
+
+}
+
+.modal-content form .MuiFormControl-root {
+    border-radius: 12px;
+}
+
+.modal-content button {
+    margin-top: 20px;
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.modal-header h2 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.close-button {
+    background: none;
+    border: none;
+    color: #999;
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.close-button:hover {
+    color: #333;
+}
+
+.text-area {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #bdbdbd;
+    border-radius: 4px;
+    resize: vertical;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+.form-control-label {
+    position: relative;
+    top: -10px;
+    left: 10px;
+    background-color: white;
+    padding: 0 5px;
+}
+
+.loader-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.css-grid-container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 2px;
+}
+
+.grid-item {
+    padding: 8px;
+    text-align: left;
+    color: #000;
+}
+
+.paper-item {
+    background-color: #fff;
+    text-align: left;
+}
+
+.left-aligned {
+    text-align: left;
+}
+
+.modal_Task {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modalContent_Task {
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+}
+
+.buttonContainer {
+    margin-top: 16px;
+}
+
+
+@media (prefers-color-scheme: dark) {
+    .paper-item {
+        background-color: #1a2027;
+    }
+} */
