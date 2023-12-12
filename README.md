@@ -14,7 +14,7 @@ Use the following credentials to log in as an admin:
 
 **Note:** During the initial launch, there might be a slight delay as the backend server sets up configurations and caches. Subsequent startups will be faster.
 
-**Features:**
+## Features
 
 - User Authentication: Secure login and registration functionality.
 - Bug Reporting: Easily report and track software bugs with detailed information.
@@ -22,7 +22,7 @@ Use the following credentials to log in as an admin:
 - Role-Based Access Control: Admin and user roles with distinct permissions.
 - Dashboard: Visualize project and bug statistics.
 
-**Folder Structure:**
+## Folder Structure
 
 - frontend: Frontend React application.
 - backend: Backend Node.js and Express.js server.
